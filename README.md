@@ -28,4 +28,4 @@ To prepare a machine learning prototype model for predicting a coefficient of re
 - sklearn.tree
 
 
-
+### Project Code: https://github.com/ybezginova2016/04_ML_GoldMining_ToMaximizeAGoldRecoveryFromOre/blob/main/04_ML_GoldMining_main.ipynb
